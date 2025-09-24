@@ -12,7 +12,9 @@ Tools & Quality: Gradle, Maven, Splunk, Kibana, SonarQube, Check Marx, FOSSA, 42
 Methodologies: Agile, Scrum, Jira, Rally 
 
 💼 Work Highlights
+
 Here are some highlights from my professional experience:
+
 Tech Mahindra (Feb 2024 - Present): Led and mentored a 4-member development team in agile design, development, and deployment of Spring Boot microservices. Successfully migrated over 10 applications from PCF to GCP in just four months with zero production defects.
 
 Synechron Technologies Pvt Ltd (Feb 2022 - Jan 2024): Developed and maintained a Spring-Hibernate application to calculate brokerage rates for BNP Paribas. Actively contributed to the full SDLC in an agile environment, including requirement gathering, deployment, and release management.
@@ -26,8 +28,6 @@ Tech Mahindra: Received the prestigious KUDOS Award twice for exceptional contri
 Wipro Technologies: Recognized as the "Asset of the Team" for streamlining processes and earned the "Instant Karma Award" for exceptional efforts during production launches.
 
 🔗 Let's Connect
+
 Email : sangethaofficial@gmail.com
 LinkedIn: https://www.linkedin.com/in/sangetha-sankaranarayanan/ 
-
-
-Email: sangethaofficial@gmail.com 
